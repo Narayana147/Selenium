@@ -4,6 +4,7 @@ public class HelloWorld {
 	String name;
 	static String city;
 	int variation = 0;
+	//this is first lesson
 
 	public static void main(String args[]) {
 		
