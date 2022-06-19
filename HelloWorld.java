@@ -4,7 +4,12 @@ public class HelloWorld {
 	String name;
 	static String city;
 	int variation = 0;
+<<<<<<< HEAD
   //this is second lesson
+=======
+	//this is first lesson
+
+>>>>>>> 92d379074d09d9b2a9e8aacdd70178f278841294
 	public static void main(String args[]) {
 		
 		HelloWorld hello = new HelloWorld();
